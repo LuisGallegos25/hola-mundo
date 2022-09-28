@@ -1,2 +1,2 @@
 # hola-mundo
-practica
+Práctica
